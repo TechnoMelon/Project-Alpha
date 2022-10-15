@@ -1,3 +1,5 @@
 (-)Dependencies(-)
  1.) Python (python.org)
  2.) Py-Charm (jetbrains.com/pycharm)
+(-)End Dependencies(-)
+ 
